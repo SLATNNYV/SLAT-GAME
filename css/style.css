@@ -1,0 +1,9 @@
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 55;
+    border-radius: 0;
+    background-color:#58119c ;
+}
